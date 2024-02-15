@@ -22,6 +22,17 @@
 
         <!-- Template Stylesheet -->
         <link href="style.css" rel="stylesheet">
+	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script>
+            $(document).ready(function(){
+                $("#p1").hover(function(){
+                    alert("You entered p1!");
+                },
+                function(){
+                    alert("Bye! You now leave p1!");
+                }); 
+            });
+        </script>
     </head>
 
     <body data-spy="scroll" data-target=".navbar" data-offset="51">
@@ -349,7 +360,7 @@ solving skills to deliver high-quality web applications.
 					drawTime(ctx, radius);
 				}
 			</script>
-        <a>pavulukk@mail.uc.edu</a>
+        <a>ramiseja@mail.uc.edu</a>
 		<script>
             var shown = false;
             function showhideEmail() {
