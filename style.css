@@ -1,6 +1,4 @@
-//
 /********** General CSS ***********/
-//
 body {
     color: #666666;
     background: #F6D155;
@@ -25,9 +23,9 @@ a:focus {
 }
 
 
-//
+
 /****** Layout with Sidebar *******/
-//
+
 .wrapper {
     position: relative;
     margin: 0 auto;
@@ -304,9 +302,7 @@ a:focus {
 }
 
 
-//
 /*********** Header CSS ***********/
-//
 .header {
     position: relative;
     background: #ffffff;
@@ -388,9 +384,9 @@ a:focus {
 }
 
 
-//
+
 /******* Content Header CSS *******/
-//
+
 .content-header {
     position: relative;
     width: 100%;
@@ -418,9 +414,9 @@ a:focus {
 }
 
 
-//
+
 /*********** About CSS ************/
-//
+
 .about {
     position: relative;
     padding: 60px 30px;
@@ -486,9 +482,9 @@ a:focus {
 }
 
 
-//
+
 /********* Education CSS **********/
-//
+
 .education {
     position: relative;
     padding: 60px 30px;
@@ -559,9 +555,9 @@ a:focus {
 }
 
 
-//
+
 /********* Experience CSS *********/
-//
+
 .experience {
     position: relative;
     padding: 60px 30px;
@@ -646,9 +642,9 @@ a:focus {
 }
 
 
-//
+
 /*********** Service CSS **********/
-//
+
 .service {
     position: relative;
     padding: 60px 30px 30px 30px;
@@ -693,9 +689,9 @@ a:focus {
 }
 
 
-//
+
 /********** Portfolio CSS *********/
-//
+
 .portfolio {
     position: relative;
     padding: 60px 30px 30px 30px;
@@ -841,9 +837,9 @@ a:focus {
 }
 
 
-//
+
 /*********** Review CSS ***********/
-//
+
 .review {
     position: relative;
     background: #ffffff;
@@ -978,9 +974,9 @@ a:focus {
 }
 
 
-//
+
 /*********** Contact CSS ***********/
-//
+
 .contact {
     position: relative;
     padding: 60px 30px 30px 30px;
@@ -1067,9 +1063,9 @@ a:focus {
 }
 
 
-//
+
 /*********** Footer CSS ***********/
-//
+
 .footer {
     position: relative;
     width: 100%;
