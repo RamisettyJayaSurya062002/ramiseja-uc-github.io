@@ -95,7 +95,7 @@ The expires property allows the 'lastVisit' cookie to live on and retains client
 
 
 
-   ![Generalreq](S1.png)
-   ![Generalreq](S2.png)
-   ![Generalreq](S3.png)
-   ![Generalreq](S4.png)
+   ![Generalreq](img/S1.png)
+   ![Generalreq](img/S2.png)
+   ![Generalreq](img/S3.png)
+   ![Generalreq](img/S4.png)
