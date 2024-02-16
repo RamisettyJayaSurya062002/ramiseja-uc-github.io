@@ -12,7 +12,7 @@
 
 **Short-bio**: I am Interested in web development and cooking. 
 
-![Jaya Surya Ramisetty headshot](Images/Headshot.jpeg)
+![Jaya Surya Ramisetty headshot](../../img/Headshot.jpeg)
 
 
 
