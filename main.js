@@ -91,7 +91,7 @@ async function fetchData() {
         const response = await fetch(url, options);
         const result = await response.json();
         const quoteContainer = document.getElementById('quoteContainer');
-        quoteContainer.innerHTML = `<p>${result.content} - ${result.originator.name}</p>`;
+        quoteContainer.innerHTML = <p>${result.content} - ${result.originator.name}</p>;
     } catch (error) {
         console.error(error);
     }
